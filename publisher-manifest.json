@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9b38ff84fb4bfc4f327a9d88",
+  "owner": "rywytw3jm",
+  "repo": "page-ccc555ce235c2d46c547e9c6",
+  "title": "BFG加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ccc555ce235c2d46c547e9c6",
+      "a": "BFG加速",
+      "b": "2027最新官网",
+      "entity": "BFG加速",
+      "brand": "BFG加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "35f3c41988c91d2790c9824c2ddb543833b080cf74025747ccfb8f47831e3023",
+      "content": {
+        "primary_entity": "BFG加速",
+        "keyword1": "BFG加速",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按手机、电脑和路由器分配合适客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定版本，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选对套餐再配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档选择，月付价格从 ¥15 到 ¥85，分别满足轻量浏览、流媒体解锁与团队多设备接入。旗舰版以每月 300GB 流量和 5 台设备在线成为多数用户的选择，团队版则支持 20 台设备同时在线并配备专属客户经理。客户端覆盖手机与电脑，按设备类型导入订阅即可开始使用。",
+          "AI_FEATURES_INTRO": "三档套餐在流量、设备数量与节点权益上逐级提升，可按实际用量挑选。",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备在线，适合日常浏览与轻度流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线节点和优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，支持 20 台设备，含 VIP 高带宽节点和企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡主力",
+          "AI_FEATURE_TITLE_3": "多设备团队",
+          "AI_GUIDE_INTRO": "从选服务到导入订阅的三个步骤。",
+          "AI_GUIDE_TITLE": "使用三步走",
+          "AI_HERO_INTRO": "BFG加速面向需要稳定跨境访问的用户，提供基础版、旗舰版和团队版三种套餐。月付价格从 ¥15 起，年付可享额外优惠，流量与设备数量随版本递增。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线节点",
+          "AI_HIGHLIGHT_3": "年付方案折算后更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量和每月流量需求，在基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认使用设备的操作系统与在线数量是否符合所选套餐的适配要求。",
+          "AI_STEP_TEXT_3": "安装对应客户端，依照客户端文档导入订阅配置并连接节点。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BFG加速多档套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "BFG加速支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持手机、电脑和平板等常用设备，具体按客户端选择。基础版支持3台设备同时在线，旗舰版5台，团队版20台，可根据使用设备数量选择合适套餐。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅配置？",
+          "AI_FAQ_ANSWER_2": "购买套餐后获取订阅链接，在对应客户端中选择从链接导入或扫描二维码，按客户端文档提示完成配置，链接会自动同步节点信息。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验，年付更划算。基础版年付¥150，旗舰版年付¥350，团队版年付¥850，长期使用可选择年付方案。",
+          "AI_FAQ_QUESTION_4": "团队版有什么不同？",
+          "AI_FAQ_ANSWER_4": "团队版提供每月1000GB流量和20台设备在线支持，配备VIP专属高带宽节点，支持企业定制路由，并配有专属客户经理服务。",
+          "AI_FAQ_QUESTION_5": "旗舰版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版每月300GB流量、5台设备在线，全节点原生流媒体解锁，IPLC专线优化游戏加速，并提供7x24优先工单支持，适合多设备影音游戏用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yet89tm16b.com",
+    "host": "xn--yet89tm16b.com"
+  },
+  "file_hashes": {
+    "index.html": "db51895e8ed6ee9249d0de6fa5a606f8be2f38caaf67cdc363755266d39f7d0e",
+    "sitemap.xml": "85edc2043f4061ea0f9ca5901eed0e57542aed19054387ea3aed54d5ba0605ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "90a21701e0b31b3b32bf35dade071a2b3bbd203268f420b423682c6082a69258",
+    "robots.txt": "5349a872cec30f97018f29ad1e4de24f195b2000ff3adb43076ad25b6139bd04",
+    "09587f36641fd2b1e9665a0a61f3710a.txt": "f6b46d5accee161ca0e4b019b14b2d4f39419edd4ea3ce27dfdb512592f9b3d1"
+  },
+  "revision": "f5f6e7eefbbd760caee77dd73aa1b54e74551ce8c21829234734431ddeae6bbe"
+}
